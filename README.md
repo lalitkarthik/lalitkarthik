@@ -9,7 +9,9 @@
 🤖  ML/DL Enthusisast | Unleashing Innovation Through Data and Algorithms
 
 
-## 🌐 Socials:
+<p align="left">
+  🌐 Socials:
+</p> 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lalit-karthikeyan-m-a-83b826281) 
 
 # 💻 Tech Stack:
