@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lalit Karthikeyan</h1>
 <h3 align="center">A Passionate ML/DL Enthusiast | Building Quantitative Insights</h3>
+<img align="right" width="400" src="https://github.com/lalitkarthik/lalitkarthik/assets/153484165/0692c5c9-bf83-49eb-a8e1-1558d4747430" alt="Coding">
 
 🎓  Sophomore at IIT Kharagpur<br>
 
