@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lalit Karthikeyan</h1>
 <h3 align="center">A Passionate ML/DL Enthusiast | Building Quantitative Insights</h3>
 
-# 💫 About Me:
 🎓  Sophomore at IIT Kharagpur<br>
 
 📊  Delving into Quantitative Analysis and Financial Insights<br>
