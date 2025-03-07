@@ -8,7 +8,7 @@
 <br>
 📊  Delving into Quantitative Analysis and Financial Insights<br>
 <br>
-🤖  ML/DL Enthusisast | Unleashing Innovation Through Data and Algorithms
+🤖  ML/DL Enthusisast
 
 <br>
 <br>
